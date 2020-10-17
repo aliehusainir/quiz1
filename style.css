@@ -1,0 +1,39 @@
+div.container.cont1 {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 15%;
+}
+div.panel.shadow {
+    position: absolute;
+    top: 50%;
+    transform: translate(-15%, -50%);
+    background-color: white;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    height: 50vh;
+    width: 50vw;
+    overflow: auto;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+footer {
+    background-color: rgb(2, 10, 75);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+h3 {
+    color: rgb(212, 241, 198);
+}
+.fa-twitter {
+    padding: 20px;
+    text-align: center;
+    background: #55ACEE;
+    color: white;
+    border-radius: 50%;
+}
